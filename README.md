@@ -8,6 +8,7 @@ This project predicts stock closing prices using historical stock market data co
 # Dataset
 
 Dataset: stock_details_5_years.csv
+This dataset obtained from kaggle.
 
 # Features include:
 
