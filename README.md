@@ -11,14 +11,14 @@ Dataset: stock_details_5_years.csv
 
 # Features include:
 
-Open Price
-High Price
-Low Price
-Volume
-Dividends
-Stock Splits
-Company Name
-Date
+Open Price,
+High Price,
+Low Price,
+Volume,
+Dividends,
+Stock Splits,
+Company Name,
+Date,
 
 # Target Variable:
 
