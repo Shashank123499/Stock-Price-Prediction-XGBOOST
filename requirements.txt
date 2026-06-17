@@ -1,5 +1,5 @@
-1.Pandas
-2.Matplotlib
-3.scikit-learn
-4.XGBOOST
-4.Jupyter
+Pandas
+Matplotlib
+scikit-learn
+XGBOOST
+Jupyter
