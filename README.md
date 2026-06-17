@@ -27,25 +27,25 @@ Close Price
 
 # Technologies Used
 
-1.Python
-2.Pandas
-3.NumPy
-4.Scikit-Learn
-5.XGBoost
-6.Matplotlib
-7.Jupyter Notebook
-8.Project Workflow
-9.Data Collection
-10.Data Cleaning
-11.Feature Engineering
-12.Train-Test Split
-13.Model Training using XGBoost Regressor
-14.Model Evaluation
-15.Actual vs Predicted Price Visualization
+1.Python<br>
+2.Pandas<br>
+3.NumPy<br>
+4.Scikit-Learn<br>
+5.XGBoost<br>
+6.Matplotlib<br>
+7.Jupyter Notebook<br>
+8.Project Workflow<br>
+9.Data Collection<br>
+10.Data Cleaning<br>
+11.Feature Engineering<br>
+12.Train-Test Split<br>
+13.Model Training using XGBoost Regressor<br>
+14.Model Evaluation<br>
+15.Actual vs Predicted Price Visualization<br>
 
 # Model Performance
 
-Training Score: 96.99%
+Training Score: 96.99%<br>
 Testing Score: 96.98%
 
 # Results
@@ -53,17 +53,17 @@ The model achieved high accuracy in predicting stock closing prices based on his
 
 # Future Improvements
 
-1.LSTM Deep Learning Model
-2.Real-Time Stock Data Integration
-3.Hyperparameter Tuning
-4.Deployment using Streamlit
+1.LSTM Deep Learning Model<br>
+2.Real-Time Stock Data Integration<br>
+3.Hyperparameter Tuning<br>
+4.Deployment using Streamlit<br>
 
 # How to Run
-step-1 Clone the repository
-step-2 Install required packages
-step-3 Run the Jupyter Notebook
-step-4 pip install -r requirements.txt
+step-1 Clone the repository<br>
+step-2 Install required packages<br>
+step-3 Run the Jupyter Notebook<br>
+step-4 pip install -r requirements.txt<br>
 
 # Author
-Shashank Awasthi
+Shashank Awasthi<br>
 Aspiring Data Scientist and Machine Learning Enthusiast
