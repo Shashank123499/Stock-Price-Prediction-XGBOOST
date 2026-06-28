@@ -1,5 +1,7 @@
-Pandas
-Matplotlib
+pandas
+matplotlib
 scikit-learn
-XGBOOST
+xgboost
 Jupyter
+streamlit
+joblib
